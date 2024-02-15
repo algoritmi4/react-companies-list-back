@@ -1,0 +1,1819 @@
+{
+  "companies": [
+    {
+      "id": "a53f7bac-d02d-31f6-98eb-89b761f1a111",
+      "company": "ЗАО ЮпитерХмель",
+      "address": "пл. Косиора, 14",
+      "employees": [
+        {
+          "id": "c28df6d9-cc7e-31b3-bbff-c73c08490f9e",
+          "name": "Марта",
+          "last_name": "Гурьев",
+          "position": "Аксёнов"
+        },
+        {
+          "id": "e08a8724-6767-34fc-950b-d653d4efc118",
+          "name": "Алиса",
+          "last_name": "Казаков",
+          "position": "Морозов"
+        },
+        {
+          "id": "a36a9ba5-b4e6-38d0-ad03-f016c7697686",
+          "name": "Екатерина",
+          "last_name": "Смирнов",
+          "position": "Матвеев"
+        },
+        {
+          "id": "095407fc-df4c-3097-9308-dc0dcaadb848",
+          "name": "Ульяна",
+          "last_name": "Калининa",
+          "position": "Яковлев"
+        },
+        {
+          "id": "4476a32c-9b7b-37a6-8a68-561c45ad64f9",
+          "name": "Аким",
+          "last_name": "Фокин",
+          "position": "Алексеев"
+        }
+      ]
+    },
+    {
+      "id": "29b77012-c584-35dc-a226-a40e1a1a83b1",
+      "company": "ПАО МонтажМетизФинансЭкспедиция",
+      "address": "пл. Гагарина, 38",
+      "employees": [
+        {
+          "id": "c6fd6c86-d862-3c5e-be6c-531631c01f97",
+          "name": "Эмма",
+          "last_name": "Юдинa",
+          "position": "Анисимовa"
+        },
+        {
+          "id": "815f9fc6-704e-3e0d-8789-6adac1bd305c",
+          "name": "Макар",
+          "last_name": "Юдинa",
+          "position": "Кудряшовa"
+        },
+        {
+          "id": "ec7407a2-49d6-3eaf-8157-385fbeba2e1a",
+          "name": "Александр",
+          "last_name": "Егоровa",
+          "position": "Сергеевa"
+        },
+        {
+          "id": "3af8535f-9382-39f1-8625-0b872a999cbd",
+          "name": "Виктор",
+          "last_name": "Васильев",
+          "position": "Копыловa"
+        },
+        {
+          "id": "8b98278e-3c0e-3488-8cf7-ceefa59b3f70",
+          "name": "Трофим",
+          "last_name": "Крюков",
+          "position": "Власовa"
+        },
+        {
+          "id": "28253d39-6c0e-358c-b86d-27b0f1586b60",
+          "name": "Наталья",
+          "last_name": "Зайцевa",
+          "position": "Данилов"
+        },
+        {
+          "id": "1f65b59b-d1f4-324b-b3f2-448e04dc226c",
+          "name": "Яна",
+          "last_name": "Зиминa",
+          "position": "Доронинa"
+        },
+        {
+          "id": "141f8469-9183-3992-b57e-84d37c40758d",
+          "name": "Таисия",
+          "last_name": "Пестовa",
+          "position": "Капустинa"
+        },
+        {
+          "id": "48941350-f5d2-3a9b-bce3-e1b590cc165f",
+          "name": "Лаврентий",
+          "last_name": "Исаков",
+          "position": "Анисимовa"
+        },
+        {
+          "id": "7bfbb898-7655-3eff-ade8-2530a6880de7",
+          "name": "Давид",
+          "last_name": "Сорокин",
+          "position": "Воробьёв"
+        },
+        {
+          "id": "1a78a066-c649-3f3a-9eaf-10f777b5bfaf",
+          "name": "Марат",
+          "last_name": "Мясниковa",
+          "position": "Емельяновa"
+        },
+        {
+          "id": "136c846c-c2af-3e88-bfd5-e8874506259f",
+          "name": "Савва",
+          "last_name": "Копылов",
+          "position": "Кононовa"
+        },
+        {
+          "id": "60430fb4-2e2d-3085-a01a-2ae3dc204d6a",
+          "name": "Роберт",
+          "last_name": "Дьячковa",
+          "position": "Комиссаров"
+        },
+        {
+          "id": "839133f7-970e-381a-b983-65652d7d8fc3",
+          "name": "Таисия",
+          "last_name": "Гаврилов",
+          "position": "Казаков"
+        }
+      ]
+    },
+    {
+      "id": "88f69cce-1fd6-39e5-a39a-c876ea515804",
+      "company": "МКК Газ",
+      "address": "въезд Балканская, 64",
+      "employees": [
+        {
+          "id": "ef11c3e0-489b-335d-a9de-f252a0fde005",
+          "name": "Лаврентий",
+          "last_name": "Анисимов",
+          "position": "Буров"
+        },
+        {
+          "id": "f1475814-d736-33f4-b4fe-03dfc5c55002",
+          "name": "Бронислав",
+          "last_name": "Филатовa",
+          "position": "Ильинa"
+        },
+        {
+          "id": "21be74cf-ee91-3b98-be1c-f68a1d5bb63c",
+          "name": "Софья",
+          "last_name": "Фокинa",
+          "position": "Белоусовa"
+        }
+      ]
+    },
+    {
+      "id": "4b9490e8-b2f2-3d4a-939a-2cbc6a863e84",
+      "company": "ЗАО ГорТомскСтройЭкспедиция",
+      "address": "шоссе Гагарина, 12",
+      "employees": [
+        {
+          "id": "4b0f59b7-c51a-35a3-b015-4445b4c75eef",
+          "name": "Дмитрий",
+          "last_name": "Бобровa",
+          "position": "Коноваловa"
+        },
+        {
+          "id": "6a63b2e0-dc3a-3b01-a263-111758161f45",
+          "name": "Егор",
+          "last_name": "Волков",
+          "position": "Никоновa"
+        },
+        {
+          "id": "5e379a4c-2ce8-3a36-a2e6-3c72a1538709",
+          "name": "Дмитрий",
+          "last_name": "Лыткинa",
+          "position": "Афанасьевa"
+        },
+        {
+          "id": "c601d238-7b98-3017-a10a-5f45804ab93f",
+          "name": "Игнатий",
+          "last_name": "Субботинa",
+          "position": "Третьяков"
+        },
+        {
+          "id": "db8a79c2-8602-3f21-8cb2-c797f03ea834",
+          "name": "Виталий",
+          "last_name": "Муравьёв",
+          "position": "Гурьевa"
+        },
+        {
+          "id": "502e28f8-6977-3302-9907-ad8520a70274",
+          "name": "Регина",
+          "last_name": "Симоновa",
+          "position": "Титовa"
+        }
+      ]
+    },
+    {
+      "id": "dd68ec78-0666-3464-a1f0-08e90f4bdf75",
+      "company": "ПАО ТехБашкир",
+      "address": "пр. Гоголя, 76",
+      "employees": [
+        {
+          "id": "7a5b5751-cd5e-3a81-94b0-fda9f22f6409",
+          "name": "Капитолина",
+          "last_name": "Воронцовa",
+          "position": "Поповa"
+        },
+        {
+          "id": "76ffee86-d5c5-3459-8339-4cc8dd04f0c9",
+          "name": "Алла",
+          "last_name": "Ефремовa",
+          "position": "Фомин"
+        },
+        {
+          "id": "31d755bf-198c-3167-9dc1-d3f376374e4d",
+          "name": "Никодим",
+          "last_name": "Уваровa",
+          "position": "Бирюковa"
+        },
+        {
+          "id": "864f18d4-3cb8-341d-9bf0-d9ce06a75fe5",
+          "name": "Анатолий",
+          "last_name": "Фадеевa",
+          "position": "Ермаков"
+        },
+        {
+          "id": "a3818120-e60a-369f-9ee3-beda1d9fe1c5",
+          "name": "Анна",
+          "last_name": "Михеев",
+          "position": "Артемьев"
+        },
+        {
+          "id": "f9c99e32-d3f8-31a5-88c0-c9da826e9b5b",
+          "name": "Игнат",
+          "last_name": "Егоровa",
+          "position": "Ефремов"
+        },
+        {
+          "id": "12f2ed69-5539-3468-8b55-a5039e038fdd",
+          "name": "Назар",
+          "last_name": "Колобовa",
+          "position": "Антоновa"
+        },
+        {
+          "id": "a67b8400-5f45-3155-8698-d93a57263fd0",
+          "name": "Ираклий",
+          "last_name": "Александровa",
+          "position": "Игнатовa"
+        },
+        {
+          "id": "8d34d7c9-302f-3c74-a44a-354edd17e63f",
+          "name": "Яна",
+          "last_name": "Кузнецовa",
+          "position": "Михайловa"
+        },
+        {
+          "id": "f1bb75bf-889f-3832-8856-781244c12ded",
+          "name": "Аполлон",
+          "last_name": "Исаевa",
+          "position": "Белоусов"
+        },
+        {
+          "id": "e32255c5-ddd0-39e8-8ddc-c7659a64c4a1",
+          "name": "Тимур",
+          "last_name": "Ефремовa",
+          "position": "Носковa"
+        },
+        {
+          "id": "34cac21a-dd9d-37f7-8b90-cff67b4673c4",
+          "name": "Ирина",
+          "last_name": "Журавлёвa",
+          "position": "Соболевa"
+        },
+        {
+          "id": "62437b02-ecad-37a6-8fe4-5a71e9f2e073",
+          "name": "Гарри",
+          "last_name": "Коноваловa",
+          "position": "Фадеевa"
+        },
+        {
+          "id": "bba24505-41bd-31ac-9b39-7c4d74bfbc05",
+          "name": "Спартак",
+          "last_name": "Осиповa",
+          "position": "Ковалёв"
+        },
+        {
+          "id": "863fb7e5-ccb7-322c-b929-e4b1530f1bbe",
+          "name": "Егор",
+          "last_name": "Белоусовa",
+          "position": "Филиппов"
+        },
+        {
+          "id": "e4ccb075-eff8-34f8-b599-d2cb7474d9c6",
+          "name": "Нонна",
+          "last_name": "Зуевa",
+          "position": "Трофимов"
+        },
+        {
+          "id": "d0243c56-0ed6-3ed5-ae87-21fb0089fcc5",
+          "name": "Ирина",
+          "last_name": "Рыбаковa",
+          "position": "Хохловa"
+        },
+        {
+          "id": "96d4174b-ce60-3078-ae35-f647677af828",
+          "name": "Альбина",
+          "last_name": "Кулагинa",
+          "position": "Михайловa"
+        },
+        {
+          "id": "0e53b307-47a2-356b-a376-b9a11744e6a9",
+          "name": "Наталья",
+          "last_name": "Абрамов",
+          "position": "Мясниковa"
+        },
+        {
+          "id": "470a1b76-1349-3db9-99a5-41f0e1814155",
+          "name": "Рената",
+          "last_name": "Сафонов",
+          "position": "Дроздов"
+        },
+        {
+          "id": "88d97c1e-cb1f-3840-9eba-a1c8d255c3ad",
+          "name": "Олег",
+          "last_name": "Вишняков",
+          "position": "Сысоев"
+        },
+        {
+          "id": "e9cc94d6-21ea-328e-853a-da3152bb0e6e",
+          "name": "Варвара",
+          "last_name": "Куликов",
+          "position": "Зуев"
+        },
+        {
+          "id": "29f3a0c0-8949-355e-8003-9a18b44b52c2",
+          "name": "Татьяна",
+          "last_name": "Воронов",
+          "position": "Шиловa"
+        },
+        {
+          "id": "79298adb-3dae-379d-8365-af01a3d8da5b",
+          "name": "Нонна",
+          "last_name": "Муравьёв",
+          "position": "Максимовa"
+        }
+      ]
+    },
+    {
+      "id": "4e6975aa-c445-3317-82b8-06bdccc726a7",
+      "company": "МФО МоторГлавЛифт",
+      "address": "пл. Балканская, 17",
+      "employees": [
+        {
+          "id": "ebbf7c53-a62f-37c6-9c44-6d6400799289",
+          "name": "Геннадий",
+          "last_name": "Якушевa",
+          "position": "Суханов"
+        },
+        {
+          "id": "aae0e8ab-f145-3b09-809a-d71c57d41f1c",
+          "name": "Дина",
+          "last_name": "Гордеев",
+          "position": "Костинa"
+        },
+        {
+          "id": "f95d1bc4-e8e3-33d1-9cdc-27112e4af668",
+          "name": "Нина",
+          "last_name": "Лукин",
+          "position": "Соколов"
+        },
+        {
+          "id": "7164dc64-9348-3d4a-8744-e740295d6073",
+          "name": "Марат",
+          "last_name": "Блохин",
+          "position": "Никифоров"
+        },
+        {
+          "id": "f9040809-aa5c-361b-b99e-ecaaa70ad3b7",
+          "name": "Юлий",
+          "last_name": "Фокинa",
+          "position": "Шестаков"
+        },
+        {
+          "id": "e02686c8-27bb-3cec-a97a-301bc02d784e",
+          "name": "Донат",
+          "last_name": "Князевa",
+          "position": "Семёновa"
+        },
+        {
+          "id": "34a6f9ba-2082-3a9b-b4b8-523ffe5b51c8",
+          "name": "Марат",
+          "last_name": "Денисов",
+          "position": "Соловьёвa"
+        },
+        {
+          "id": "d3439367-92c8-3e3d-8e0e-cc3b22ac879f",
+          "name": "Кристина",
+          "last_name": "Максимов",
+          "position": "Кулаковa"
+        },
+        {
+          "id": "42dcccda-9fd2-37f5-b311-2242e3b0de3d",
+          "name": "Полина",
+          "last_name": "Кириллов",
+          "position": "Горбачёвa"
+        }
+      ]
+    },
+    {
+      "id": "3211221e-7edd-3b10-b055-fd197b4897fc",
+      "company": "ЗАО Бух",
+      "address": "бульвар Балканская, 55",
+      "employees": [
+        {
+          "id": "8d5f87c4-4dcd-3cbe-93d6-4024c58f803e",
+          "name": "Клара",
+          "last_name": "Бобровa",
+          "position": "Александров"
+        },
+        {
+          "id": "cf0949a1-a4dd-3c98-b47c-15853c2555e7",
+          "name": "Тимофей",
+          "last_name": "Казаковa",
+          "position": "Нестеров"
+        },
+        {
+          "id": "132b6f07-43e4-367d-844b-588addb52277",
+          "name": "Андрей",
+          "last_name": "Дементьевa",
+          "position": "Лихачёв"
+        },
+        {
+          "id": "f809888c-9178-3726-a8c8-a87d8d3a6f7e",
+          "name": "Алина",
+          "last_name": "Сазонов",
+          "position": "Михеевa"
+        },
+        {
+          "id": "114e99ec-9cff-32e2-a810-3ac6f64904af",
+          "name": "Мария",
+          "last_name": "Воробьёвa",
+          "position": "Данилов"
+        },
+        {
+          "id": "e2e509fd-e297-3f28-9805-571393ab9fc2",
+          "name": "Клавдия",
+          "last_name": "Шилов",
+          "position": "Лихачёвa"
+        },
+        {
+          "id": "db05d99b-15ac-344c-919f-4a990140dd93",
+          "name": "Фёдор",
+          "last_name": "Архипов",
+          "position": "Киселёвa"
+        },
+        {
+          "id": "8b8debdb-f7f4-3579-8e1f-920e9738d584",
+          "name": "Виктория",
+          "last_name": "Маслов",
+          "position": "Афанасьев"
+        },
+        {
+          "id": "86b086f4-d513-3b00-917e-a14c63500e67",
+          "name": "Марк",
+          "last_name": "Михеевa",
+          "position": "Лукин"
+        }
+      ]
+    },
+    {
+      "id": "976627e1-c978-36d4-999d-c224d2b370ea",
+      "company": "МФО СервисРечРем",
+      "address": "проезд Ленина, 96",
+      "employees": [
+        {
+          "id": "db05d99b-15ac-344c-919f-4a990140dd93",
+          "name": "Фёдор",
+          "last_name": "Архипов",
+          "position": "Киселёвa"
+        },
+        {
+          "id": "8b8debdb-f7f4-3579-8e1f-920e9738d584",
+          "name": "Виктория",
+          "last_name": "Маслов",
+          "position": "Афанасьев"
+        },
+        {
+          "id": "86b086f4-d513-3b00-917e-a14c63500e67",
+          "name": "Марк",
+          "last_name": "Михеевa",
+          "position": "Лукин"
+        }
+      ]
+    },
+    {
+      "id": "c7c30441-0e68-3d07-8209-2947c614c3b4",
+      "company": "ОАО ТомскГаражДизайн",
+      "address": "шоссе Балканская, 19",
+      "employees": [
+        {
+          "id": "8d5f87c4-4dcd-3cbe-93d6-4024c58f803e",
+          "name": "Клара",
+          "last_name": "Бобровa",
+          "position": "Александров"
+        },
+        {
+          "id": "cf0949a1-a4dd-3c98-b47c-15853c2555e7",
+          "name": "Тимофей",
+          "last_name": "Казаковa",
+          "position": "Нестеров"
+        },
+        {
+          "id": "132b6f07-43e4-367d-844b-588addb52277",
+          "name": "Андрей",
+          "last_name": "Дементьевa",
+          "position": "Лихачёв"
+        },
+        {
+          "id": "f809888c-9178-3726-a8c8-a87d8d3a6f7e",
+          "name": "Алина",
+          "last_name": "Сазонов",
+          "position": "Михеевa"
+        },
+        {
+          "id": "114e99ec-9cff-32e2-a810-3ac6f64904af",
+          "name": "Мария",
+          "last_name": "Воробьёвa",
+          "position": "Данилов"
+        }
+      ]
+    },
+    {
+      "id": "639da6ba-f544-3d27-97af-91ee71339140",
+      "company": "МФО Лифт",
+      "address": "пл. Ленина, 57",
+      "employees": [
+        {
+          "id": "ec7407a2-49d6-3eaf-8157-385fbeba2e1a",
+          "name": "Александр",
+          "last_name": "Егоровa",
+          "position": "Сергеевa"
+        },
+        {
+          "id": "3af8535f-9382-39f1-8625-0b872a999cbd",
+          "name": "Виктор",
+          "last_name": "Васильев",
+          "position": "Копыловa"
+        },
+        {
+          "id": "8b98278e-3c0e-3488-8cf7-ceefa59b3f70",
+          "name": "Трофим",
+          "last_name": "Крюков",
+          "position": "Власовa"
+        },
+        {
+          "id": "28253d39-6c0e-358c-b86d-27b0f1586b60",
+          "name": "Наталья",
+          "last_name": "Зайцевa",
+          "position": "Данилов"
+        },
+        {
+          "id": "1f65b59b-d1f4-324b-b3f2-448e04dc226c",
+          "name": "Яна",
+          "last_name": "Зиминa",
+          "position": "Доронинa"
+        },
+        {
+          "id": "141f8469-9183-3992-b57e-84d37c40758d",
+          "name": "Таисия",
+          "last_name": "Пестовa",
+          "position": "Капустинa"
+        },
+        {
+          "id": "48941350-f5d2-3a9b-bce3-e1b590cc165f",
+          "name": "Лаврентий",
+          "last_name": "Исаков",
+          "position": "Анисимовa"
+        },
+        {
+          "id": "7bfbb898-7655-3eff-ade8-2530a6880de7",
+          "name": "Давид",
+          "last_name": "Сорокин",
+          "position": "Воробьёв"
+        },
+        {
+          "id": "1a78a066-c649-3f3a-9eaf-10f777b5bfaf",
+          "name": "Марат",
+          "last_name": "Мясниковa",
+          "position": "Емельяновa"
+        },
+        {
+          "id": "136c846c-c2af-3e88-bfd5-e8874506259f",
+          "name": "Савва",
+          "last_name": "Копылов",
+          "position": "Кононовa"
+        },
+        {
+          "id": "60430fb4-2e2d-3085-a01a-2ae3dc204d6a",
+          "name": "Роберт",
+          "last_name": "Дьячковa",
+          "position": "Комиссаров"
+        }
+      ]
+    },
+    {
+      "id": "0c3aff4e-405d-3ca2-8d19-5780e2cd78fb",
+      "company": "МФО Телеком",
+      "address": "пл. Гагарина, 86",
+      "employees": [{
+        "id": "4f18845b-38c4-3c2d-af2d-861352c4b4a5",
+        "name": "Гарри",
+        "last_name": "Гавриловa",
+        "position": "Лихачёв"
+      },
+      {
+        "id": "bf4d1cf0-293f-3663-808c-f2a77145bc26",
+        "name": "Аким",
+        "last_name": "Веселов",
+        "position": "Мясниковa"
+      },
+      {
+        "id": "1ce25cc4-3ea2-3e30-9d2c-bd49c6852904",
+        "name": "Виктория",
+        "last_name": "Юдин",
+        "position": "Виноградовa"
+      },
+      {
+        "id": "5a58bf7e-61c1-3ad0-86ab-381f340ec830",
+        "name": "Олег",
+        "last_name": "Потаповa",
+        "position": "Селиверстовa"
+      },
+      {
+        "id": "e37dc10a-dd19-358d-93e8-ee42fbb6796f",
+        "name": "Вениамин",
+        "last_name": "Павловa",
+        "position": "Павлов"
+      },
+      {
+        "id": "bd03db29-8dfa-397c-b901-89b5251c4f3f",
+        "name": "Олеся",
+        "last_name": "Лукинa",
+        "position": "Шашков"
+      },
+      {
+        "id": "d0031f7b-2053-3501-b8ea-c15cea88ea4b",
+        "name": "Вероника",
+        "last_name": "Красильников",
+        "position": "Филатовa"
+      },
+      {
+        "id": "151eb41c-063d-391b-ba1e-d8cfeba2ff15",
+        "name": "Ника",
+        "last_name": "Доронин",
+        "position": "Ермаков"
+      }]
+    },
+    {
+      "id": "82093617-32cf-3739-b9d5-255043562f9c",
+      "company": "ОАО МорФлот",
+      "address": "пл. Гоголя, 71",
+      "employees": [
+        {
+          "id": "831b8f65-4c40-3406-9c4d-1456b18b36cb",
+          "name": "Майя",
+          "last_name": "Юдин",
+          "position": "Соловьёвa"
+        },
+        {
+          "id": "dffa15ba-5569-3d11-bbf2-edf602dc0e45",
+          "name": "Богдан",
+          "last_name": "Котовa",
+          "position": "Михайловa"
+        },
+        {
+          "id": "ca00c832-746d-339b-9f16-f5dc72250c39",
+          "name": "Максим",
+          "last_name": "Петров",
+          "position": "Белоусовa"
+        },
+        {
+          "id": "1030dabb-6204-3478-9111-db1e810cb3dc",
+          "name": "Анатолий",
+          "last_name": "Котовa",
+          "position": "Козловa"
+        },
+        {
+          "id": "b3b02698-bf27-3cdc-a200-a8a34a1e8dd9",
+          "name": "Добрыня",
+          "last_name": "Федосеев",
+          "position": "Тарасов"
+        },
+        {
+          "id": "327ec09b-4d9e-33fe-b236-3d560cf78739",
+          "name": "Ярослав",
+          "last_name": "Карпов",
+          "position": "Мироновa"
+        },
+        {
+          "id": "5f180952-85a0-3f6b-b3e0-78f1135a2e4e",
+          "name": "Юлия",
+          "last_name": "Исаков",
+          "position": "Петров"
+        },
+        {
+          "id": "ffdf1f52-a3ca-392e-9d92-d3c6b4a97832",
+          "name": "Дан",
+          "last_name": "Григорьевa",
+          "position": "Шаров"
+        },
+        {
+          "id": "c91db840-1a17-3469-8fef-30532dbf1309",
+          "name": "Савва",
+          "last_name": "Назаровa",
+          "position": "Потапов"
+        },
+        {
+          "id": "79e577e2-ab12-3cac-8aba-0902615aaf2e",
+          "name": "Лилия",
+          "last_name": "Тарасовa",
+          "position": "Селезнёвa"
+        },
+        {
+          "id": "60ff88f2-f749-302e-8e86-ac219a8c8b4a",
+          "name": "Дарья",
+          "last_name": "Мишинa",
+          "position": "Костинa"
+        },
+        {
+          "id": "e704fc3d-24a2-35e6-9a06-df501fc81bca",
+          "name": "Альбина",
+          "last_name": "Симонов",
+          "position": "Гришин"
+        },
+        {
+          "id": "4af4d134-3664-322d-890e-bc3da75721fd",
+          "name": "Лада",
+          "last_name": "Козлов",
+          "position": "Никонов"
+        },
+        {
+          "id": "dda35518-8607-3e81-91c8-ed8eb761a571",
+          "name": "Людмила",
+          "last_name": "Бобылёвa",
+          "position": "Орехов"
+        },
+        {
+          "id": "fd4503d6-a0cd-315d-8568-3fe348e7c62c",
+          "name": "Надежда",
+          "last_name": "Лаврентьев",
+          "position": "Бобровa"
+        },
+        {
+          "id": "b2eae8a7-a3fa-3212-8a36-629b336971ed",
+          "name": "Василий",
+          "last_name": "Пестов",
+          "position": "Беловa"
+        },
+        {
+          "id": "a2a8a713-ec99-3504-b1c1-5e42ba025c9b",
+          "name": "Глеб",
+          "last_name": "Ершовa",
+          "position": "Кошелев"
+        },
+        {
+          "id": "c4f38d99-0e63-38f4-ba22-15c2a15a4c55",
+          "name": "Аким",
+          "last_name": "Куликовa",
+          "position": "Роговa"
+        },
+        {
+          "id": "a63099a1-720b-3b99-9b00-7b42b58bf6a7",
+          "name": "Давид",
+          "last_name": "Сидоров",
+          "position": "Филатовa"
+        },
+        {
+          "id": "31bdad62-5121-31c3-98a8-71cb63fd0907",
+          "name": "Таисия",
+          "last_name": "Герасимов",
+          "position": "Сазонов"
+        },
+        {
+          "id": "c0b6c2bc-a8a3-3f5c-b2a4-36e562f98390",
+          "name": "Юлиан",
+          "last_name": "Вишняковa",
+          "position": "Козловa"
+        }
+      ]
+    },
+    {
+      "id": "99874140-299a-344d-91b1-b47f3f3f9986",
+      "company": "ОАО РадиоХмельТех-H",
+      "address": "пл. Гоголя, 85",
+      "employees": [
+        {
+          "id": "4b0f59b7-c51a-35a3-b015-4445b4c75eef",
+          "name": "Дмитрий",
+          "last_name": "Бобровa",
+          "position": "Коноваловa"
+        },
+        {
+          "id": "6a63b2e0-dc3a-3b01-a263-111758161f45",
+          "name": "Егор",
+          "last_name": "Волков",
+          "position": "Никоновa"
+        },
+        {
+          "id": "5e379a4c-2ce8-3a36-a2e6-3c72a1538709",
+          "name": "Дмитрий",
+          "last_name": "Лыткинa",
+          "position": "Афанасьевa"
+        },
+        {
+          "id": "c601d238-7b98-3017-a10a-5f45804ab93f",
+          "name": "Игнатий",
+          "last_name": "Субботинa",
+          "position": "Третьяков"
+        }
+      ]
+    },
+    {
+      "id": "a4ca909c-ba3d-32de-8bb3-dccaae445be3",
+      "company": "МФО УралУрал",
+      "address": "бульвар 1905 года, 31",
+      "employees": [
+        {
+          "id": "db8a79c2-8602-3f21-8cb2-c797f03ea834",
+          "name": "Виталий",
+          "last_name": "Муравьёв",
+          "position": "Гурьевa"
+        },
+        {
+          "id": "502e28f8-6977-3302-9907-ad8520a70274",
+          "name": "Регина",
+          "last_name": "Симоновa",
+          "position": "Титовa"
+        },
+        {
+          "id": "7a5b5751-cd5e-3a81-94b0-fda9f22f6409",
+          "name": "Капитолина",
+          "last_name": "Воронцовa",
+          "position": "Поповa"
+        },
+        {
+          "id": "76ffee86-d5c5-3459-8339-4cc8dd04f0c9",
+          "name": "Алла",
+          "last_name": "Ефремовa",
+          "position": "Фомин"
+        }
+      ]
+    },
+    {
+      "id": "2cb694a7-dcd2-3f3f-9240-4790102f7a61",
+      "company": "ООО СофтСеверТеле",
+      "address": "спуск 1905 года, 46",
+      "employees": []
+    },
+    {
+      "id": "1bbdc30a-aa30-39b0-ab68-66a7c4c62947",
+      "company": "ПАО ТехХоз",
+      "address": "пр. Домодедовская, 47",
+      "employees": [
+        {
+          "id": "a3818120-e60a-369f-9ee3-beda1d9fe1c5",
+          "name": "Анна",
+          "last_name": "Михеев",
+          "position": "Артемьев"
+        },
+        {
+          "id": "f9c99e32-d3f8-31a5-88c0-c9da826e9b5b",
+          "name": "Игнат",
+          "last_name": "Егоровa",
+          "position": "Ефремов"
+        },
+        {
+          "id": "12f2ed69-5539-3468-8b55-a5039e038fdd",
+          "name": "Назар",
+          "last_name": "Колобовa",
+          "position": "Антоновa"
+        },
+        {
+          "id": "a67b8400-5f45-3155-8698-d93a57263fd0",
+          "name": "Ираклий",
+          "last_name": "Александровa",
+          "position": "Игнатовa"
+        },
+        {
+          "id": "8d34d7c9-302f-3c74-a44a-354edd17e63f",
+          "name": "Яна",
+          "last_name": "Кузнецовa",
+          "position": "Михайловa"
+        },
+        {
+          "id": "f1bb75bf-889f-3832-8856-781244c12ded",
+          "name": "Аполлон",
+          "last_name": "Исаевa",
+          "position": "Белоусов"
+        },
+        {
+          "id": "e32255c5-ddd0-39e8-8ddc-c7659a64c4a1",
+          "name": "Тимур",
+          "last_name": "Ефремовa",
+          "position": "Носковa"
+        },
+        {
+          "id": "34cac21a-dd9d-37f7-8b90-cff67b4673c4",
+          "name": "Ирина",
+          "last_name": "Журавлёвa",
+          "position": "Соболевa"
+        }
+      ]
+    },
+    {
+      "id": "7b33cffb-0b69-3bab-8114-2483997334eb",
+      "company": "ЗАО ГазГорАлмаз",
+      "address": "бульвар Косиора, 22",
+      "employees": [
+        {
+          "id": "96d4174b-ce60-3078-ae35-f647677af828",
+          "name": "Альбина",
+          "last_name": "Кулагинa",
+          "position": "Михайловa"
+        },
+        {
+          "id": "0e53b307-47a2-356b-a376-b9a11744e6a9",
+          "name": "Наталья",
+          "last_name": "Абрамов",
+          "position": "Мясниковa"
+        },
+        {
+          "id": "470a1b76-1349-3db9-99a5-41f0e1814155",
+          "name": "Рената",
+          "last_name": "Сафонов",
+          "position": "Дроздов"
+        },
+        {
+          "id": "88d97c1e-cb1f-3840-9eba-a1c8d255c3ad",
+          "name": "Олег",
+          "last_name": "Вишняков",
+          "position": "Сысоев"
+        },
+        {
+          "id": "e9cc94d6-21ea-328e-853a-da3152bb0e6e",
+          "name": "Варвара",
+          "last_name": "Куликов",
+          "position": "Зуев"
+        },
+        {
+          "id": "29f3a0c0-8949-355e-8003-9a18b44b52c2",
+          "name": "Татьяна",
+          "last_name": "Воронов",
+          "position": "Шиловa"
+        },
+        {
+          "id": "79298adb-3dae-379d-8365-af01a3d8da5b",
+          "name": "Нонна",
+          "last_name": "Муравьёв",
+          "position": "Максимовa"
+        }
+      ]
+    },
+    {
+      "id": "9362235c-4002-3406-9282-f034d9f5c6dc",
+      "company": "ОАО Текстиль",
+      "address": "проезд Чехова, 38",
+      "employees": [
+        {
+          "id": "e9cc94d6-21ea-328e-853a-da3152bb0e6e",
+          "name": "Варвара",
+          "last_name": "Куликов",
+          "position": "Зуев"
+        },
+        {
+          "id": "29f3a0c0-8949-355e-8003-9a18b44b52c2",
+          "name": "Татьяна",
+          "last_name": "Воронов",
+          "position": "Шиловa"
+        },
+        {
+          "id": "79298adb-3dae-379d-8365-af01a3d8da5b",
+          "name": "Нонна",
+          "last_name": "Муравьёв",
+          "position": "Максимовa"
+        }
+      ]
+    },
+    {
+      "id": "9ae9d1fe-7c8e-325c-bcc4-c393434ffd39",
+      "company": "ПАО СофтОрион",
+      "address": "бульвар Ломоносова, 84",
+      "employees": [
+        {
+          "id": "114e99ec-9cff-32e2-a810-3ac6f64904af",
+          "name": "Мария",
+          "last_name": "Воробьёвa",
+          "position": "Данилов"
+        },
+        {
+          "id": "e2e509fd-e297-3f28-9805-571393ab9fc2",
+          "name": "Клавдия",
+          "last_name": "Шилов",
+          "position": "Лихачёвa"
+        },
+        {
+          "id": "db05d99b-15ac-344c-919f-4a990140dd93",
+          "name": "Фёдор",
+          "last_name": "Архипов",
+          "position": "Киселёвa"
+        },
+        {
+          "id": "8b8debdb-f7f4-3579-8e1f-920e9738d584",
+          "name": "Виктория",
+          "last_name": "Маслов",
+          "position": "Афанасьев"
+        },
+        {
+          "id": "86b086f4-d513-3b00-917e-a14c63500e67",
+          "name": "Марк",
+          "last_name": "Михеевa",
+          "position": "Лукин"
+        }
+      ]
+    },
+    {
+      "id": "22a87f96-9b5d-332d-ab1c-2a5dfe0f3acf",
+      "company": "ООО Компания МеталФлотТехСбыт",
+      "address": "спуск Славы, 70",
+      "employees": [
+        {
+          "id": "7a5b5751-cd5e-3a81-94b0-fda9f22f6409",
+          "name": "Капитолина",
+          "last_name": "Воронцовa",
+          "position": "Поповa"
+        },
+        {
+          "id": "76ffee86-d5c5-3459-8339-4cc8dd04f0c9",
+          "name": "Алла",
+          "last_name": "Ефремовa",
+          "position": "Фомин"
+        },
+        {
+          "id": "31d755bf-198c-3167-9dc1-d3f376374e4d",
+          "name": "Никодим",
+          "last_name": "Уваровa",
+          "position": "Бирюковa"
+        },
+        {
+          "id": "864f18d4-3cb8-341d-9bf0-d9ce06a75fe5",
+          "name": "Анатолий",
+          "last_name": "Фадеевa",
+          "position": "Ермаков"
+        },
+        {
+          "id": "a3818120-e60a-369f-9ee3-beda1d9fe1c5",
+          "name": "Анна",
+          "last_name": "Михеев",
+          "position": "Артемьев"
+        }
+      ]
+    },
+    {
+      "id": "ddc49646-c3a7-3455-a113-91259ff67196",
+      "company": "ООО ЦементРыб",
+      "address": "наб. Славы, 32",
+      "employees": [
+        {
+          "id": "6a63b2e0-dc3a-3b01-a263-111758161f45",
+          "name": "Егор",
+          "last_name": "Волков",
+          "position": "Никоновa"
+        },
+        {
+          "id": "5e379a4c-2ce8-3a36-a2e6-3c72a1538709",
+          "name": "Дмитрий",
+          "last_name": "Лыткинa",
+          "position": "Афанасьевa"
+        },
+        {
+          "id": "c601d238-7b98-3017-a10a-5f45804ab93f",
+          "name": "Игнатий",
+          "last_name": "Субботинa",
+          "position": "Третьяков"
+        },
+        {
+          "id": "db8a79c2-8602-3f21-8cb2-c797f03ea834",
+          "name": "Виталий",
+          "last_name": "Муравьёв",
+          "position": "Гурьевa"
+        },
+        {
+          "id": "502e28f8-6977-3302-9907-ad8520a70274",
+          "name": "Регина",
+          "last_name": "Симоновa",
+          "position": "Титовa"
+        }
+      ]
+    },
+    {
+      "id": "ed3bedaf-df58-324a-ab0f-f16797f7c1b5",
+      "company": "МКК Тверь",
+      "address": "наб. Чехова, 43",
+      "employees": []
+    },
+    {
+      "id": "dfa325e0-e052-3178-b585-3939bbbdfa91",
+      "company": "ЗАО ГорЛен",
+      "address": "шоссе Гагарина, 36",
+      "employees": [
+        {
+          "id": "4b0f59b7-c51a-35a3-b015-4445b4c75eef",
+          "name": "Дмитрий",
+          "last_name": "Бобровa",
+          "position": "Коноваловa"
+        },
+        {
+          "id": "6a63b2e0-dc3a-3b01-a263-111758161f45",
+          "name": "Егор",
+          "last_name": "Волков",
+          "position": "Никоновa"
+        },
+        {
+          "id": "5e379a4c-2ce8-3a36-a2e6-3c72a1538709",
+          "name": "Дмитрий",
+          "last_name": "Лыткинa",
+          "position": "Афанасьевa"
+        },
+        {
+          "id": "c601d238-7b98-3017-a10a-5f45804ab93f",
+          "name": "Игнатий",
+          "last_name": "Субботинa",
+          "position": "Третьяков"
+        },
+        {
+          "id": "db8a79c2-8602-3f21-8cb2-c797f03ea834",
+          "name": "Виталий",
+          "last_name": "Муравьёв",
+          "position": "Гурьевa"
+        },
+        {
+          "id": "502e28f8-6977-3302-9907-ad8520a70274",
+          "name": "Регина",
+          "last_name": "Симоновa",
+          "position": "Титовa"
+        }
+      ]
+    },
+    {
+      "id": "dd68ec78-0666-3464-a1f0-08e90f4bdf75",
+      "company": "ПАО ТехБашкир",
+      "address": "пр. Гоголя, 76",
+      "employees": [
+        {
+          "id": "7a5b5751-cd5e-3a81-94b0-fda9f22f6409",
+          "name": "Капитолина",
+          "last_name": "Воронцовa",
+          "position": "Поповa"
+        },
+        {
+          "id": "76ffee86-d5c5-3459-8339-4cc8dd04f0c9",
+          "name": "Алла",
+          "last_name": "Ефремовa",
+          "position": "Фомин"
+        },
+        {
+          "id": "31d755bf-198c-3167-9dc1-d3f376374e4d",
+          "name": "Никодим",
+          "last_name": "Уваровa",
+          "position": "Бирюковa"
+        },
+        {
+          "id": "864f18d4-3cb8-341d-9bf0-d9ce06a75fe5",
+          "name": "Анатолий",
+          "last_name": "Фадеевa",
+          "position": "Ермаков"
+        },
+        {
+          "id": "a3818120-e60a-369f-9ee3-beda1d9fe1c5",
+          "name": "Анна",
+          "last_name": "Михеев",
+          "position": "Артемьев"
+        },
+        {
+          "id": "f9c99e32-d3f8-31a5-88c0-c9da826e9b5b",
+          "name": "Игнат",
+          "last_name": "Егоровa",
+          "position": "Ефремов"
+        },
+        {
+          "id": "12f2ed69-5539-3468-8b55-a5039e038fdd",
+          "name": "Назар",
+          "last_name": "Колобовa",
+          "position": "Антоновa"
+        },
+        {
+          "id": "a67b8400-5f45-3155-8698-d93a57263fd0",
+          "name": "Ираклий",
+          "last_name": "Александровa",
+          "position": "Игнатовa"
+        }
+      ]
+    },
+    {
+      "id": "e7fa5f4b-a6ac-36c3-8e34-8c8308a58a2a",
+      "company": "ООО ДизайнГорСтройМашина",
+      "address": "пл. Славы, 29",
+      "employees": [
+        {
+          "id": "f95d1bc4-e8e3-33d1-9cdc-27112e4af668",
+          "name": "Нина",
+          "last_name": "Лукин",
+          "position": "Соколов"
+        },
+        {
+          "id": "7164dc64-9348-3d4a-8744-e740295d6073",
+          "name": "Марат",
+          "last_name": "Блохин",
+          "position": "Никифоров"
+        },
+        {
+          "id": "f9040809-aa5c-361b-b99e-ecaaa70ad3b7",
+          "name": "Юлий",
+          "last_name": "Фокинa",
+          "position": "Шестаков"
+        }
+      ]
+    },
+    {
+      "id": "41849871-803c-3301-92b6-481d60410a7d",
+      "company": "ЗАО Инж",
+      "address": "шоссе Гагарина, 10",
+      "employees": [
+        {
+          "id": "e02686c8-27bb-3cec-a97a-301bc02d784e",
+          "name": "Донат",
+          "last_name": "Князевa",
+          "position": "Семёновa"
+        },
+        {
+          "id": "34a6f9ba-2082-3a9b-b4b8-523ffe5b51c8",
+          "name": "Марат",
+          "last_name": "Денисов",
+          "position": "Соловьёвa"
+        },
+        {
+          "id": "d3439367-92c8-3e3d-8e0e-cc3b22ac879f",
+          "name": "Кристина",
+          "last_name": "Максимов",
+          "position": "Кулаковa"
+        },
+        {
+          "id": "42dcccda-9fd2-37f5-b311-2242e3b0de3d",
+          "name": "Полина",
+          "last_name": "Кириллов",
+          "position": "Горбачёвa"
+        },
+        {
+          "id": "8d5f87c4-4dcd-3cbe-93d6-4024c58f803e",
+          "name": "Клара",
+          "last_name": "Бобровa",
+          "position": "Александров"
+        },
+        {
+          "id": "cf0949a1-a4dd-3c98-b47c-15853c2555e7",
+          "name": "Тимофей",
+          "last_name": "Казаковa",
+          "position": "Нестеров"
+        },
+        {
+          "id": "132b6f07-43e4-367d-844b-588addb52277",
+          "name": "Андрей",
+          "last_name": "Дементьевa",
+          "position": "Лихачёв"
+        },
+        {
+          "id": "f809888c-9178-3726-a8c8-a87d8d3a6f7e",
+          "name": "Алина",
+          "last_name": "Сазонов",
+          "position": "Михеевa"
+        },
+        {
+          "id": "114e99ec-9cff-32e2-a810-3ac6f64904af",
+          "name": "Мария",
+          "last_name": "Воробьёвa",
+          "position": "Данилов"
+        },
+        {
+          "id": "e2e509fd-e297-3f28-9805-571393ab9fc2",
+          "name": "Клавдия",
+          "last_name": "Шилов",
+          "position": "Лихачёвa"
+        },
+        {
+          "id": "db05d99b-15ac-344c-919f-4a990140dd93",
+          "name": "Фёдор",
+          "last_name": "Архипов",
+          "position": "Киселёвa"
+        },
+        {
+          "id": "8b8debdb-f7f4-3579-8e1f-920e9738d584",
+          "name": "Виктория",
+          "last_name": "Маслов",
+          "position": "Афанасьев"
+        },
+        {
+          "id": "86b086f4-d513-3b00-917e-a14c63500e67",
+          "name": "Марк",
+          "last_name": "Михеевa",
+          "position": "Лукин"
+        },
+        {
+          "id": "4f18845b-38c4-3c2d-af2d-861352c4b4a5",
+          "name": "Гарри",
+          "last_name": "Гавриловa",
+          "position": "Лихачёв"
+        },
+        {
+          "id": "bf4d1cf0-293f-3663-808c-f2a77145bc26",
+          "name": "Аким",
+          "last_name": "Веселов",
+          "position": "Мясниковa"
+        },
+        {
+          "id": "1ce25cc4-3ea2-3e30-9d2c-bd49c6852904",
+          "name": "Виктория",
+          "last_name": "Юдин",
+          "position": "Виноградовa"
+        },
+        {
+          "id": "5a58bf7e-61c1-3ad0-86ab-381f340ec830",
+          "name": "Олег",
+          "last_name": "Потаповa",
+          "position": "Селиверстовa"
+        },
+        {
+          "id": "e37dc10a-dd19-358d-93e8-ee42fbb6796f",
+          "name": "Вениамин",
+          "last_name": "Павловa",
+          "position": "Павлов"
+        },
+        {
+          "id": "bd03db29-8dfa-397c-b901-89b5251c4f3f",
+          "name": "Олеся",
+          "last_name": "Лукинa",
+          "position": "Шашков"
+        },
+        {
+          "id": "d0031f7b-2053-3501-b8ea-c15cea88ea4b",
+          "name": "Вероника",
+          "last_name": "Красильников",
+          "position": "Филатовa"
+        },
+        {
+          "id": "151eb41c-063d-391b-ba1e-d8cfeba2ff15",
+          "name": "Ника",
+          "last_name": "Доронин",
+          "position": "Ермаков"
+        },
+        {
+          "id": "831b8f65-4c40-3406-9c4d-1456b18b36cb",
+          "name": "Майя",
+          "last_name": "Юдин",
+          "position": "Соловьёвa"
+        },
+        {
+          "id": "dffa15ba-5569-3d11-bbf2-edf602dc0e45",
+          "name": "Богдан",
+          "last_name": "Котовa",
+          "position": "Михайловa"
+        },
+        {
+          "id": "ca00c832-746d-339b-9f16-f5dc72250c39",
+          "name": "Максим",
+          "last_name": "Петров",
+          "position": "Белоусовa"
+        },
+        {
+          "id": "1030dabb-6204-3478-9111-db1e810cb3dc",
+          "name": "Анатолий",
+          "last_name": "Котовa",
+          "position": "Козловa"
+        },
+        {
+          "id": "b3b02698-bf27-3cdc-a200-a8a34a1e8dd9",
+          "name": "Добрыня",
+          "last_name": "Федосеев",
+          "position": "Тарасов"
+        },
+        {
+          "id": "327ec09b-4d9e-33fe-b236-3d560cf78739",
+          "name": "Ярослав",
+          "last_name": "Карпов",
+          "position": "Мироновa"
+        },
+        {
+          "id": "5f180952-85a0-3f6b-b3e0-78f1135a2e4e",
+          "name": "Юлия",
+          "last_name": "Исаков",
+          "position": "Петров"
+        },
+        {
+          "id": "ffdf1f52-a3ca-392e-9d92-d3c6b4a97832",
+          "name": "Дан",
+          "last_name": "Григорьевa",
+          "position": "Шаров"
+        },
+        {
+          "id": "c91db840-1a17-3469-8fef-30532dbf1309",
+          "name": "Савва",
+          "last_name": "Назаровa",
+          "position": "Потапов"
+        },
+        {
+          "id": "79e577e2-ab12-3cac-8aba-0902615aaf2e",
+          "name": "Лилия",
+          "last_name": "Тарасовa",
+          "position": "Селезнёвa"
+        },
+        {
+          "id": "60ff88f2-f749-302e-8e86-ac219a8c8b4a",
+          "name": "Дарья",
+          "last_name": "Мишинa",
+          "position": "Костинa"
+        },
+        {
+          "id": "e704fc3d-24a2-35e6-9a06-df501fc81bca",
+          "name": "Альбина",
+          "last_name": "Симонов",
+          "position": "Гришин"
+        },
+        {
+          "id": "4af4d134-3664-322d-890e-bc3da75721fd",
+          "name": "Лада",
+          "last_name": "Козлов",
+          "position": "Никонов"
+        },
+        {
+          "id": "dda35518-8607-3e81-91c8-ed8eb761a571",
+          "name": "Людмила",
+          "last_name": "Бобылёвa",
+          "position": "Орехов"
+        },
+        {
+          "id": "fd4503d6-a0cd-315d-8568-3fe348e7c62c",
+          "name": "Надежда",
+          "last_name": "Лаврентьев",
+          "position": "Бобровa"
+        },
+        {
+          "id": "b2eae8a7-a3fa-3212-8a36-629b336971ed",
+          "name": "Василий",
+          "last_name": "Пестов",
+          "position": "Беловa"
+        },
+        {
+          "id": "a2a8a713-ec99-3504-b1c1-5e42ba025c9b",
+          "name": "Глеб",
+          "last_name": "Ершовa",
+          "position": "Кошелев"
+        },
+        {
+          "id": "c4f38d99-0e63-38f4-ba22-15c2a15a4c55",
+          "name": "Аким",
+          "last_name": "Куликовa",
+          "position": "Роговa"
+        },
+        {
+          "id": "a63099a1-720b-3b99-9b00-7b42b58bf6a7",
+          "name": "Давид",
+          "last_name": "Сидоров",
+          "position": "Филатовa"
+        }
+      ]
+    },
+    {
+      "id": "ed486991-ee1c-3a37-be92-f0db5686d5e9",
+      "company": "ООО Компания Газ",
+      "address": "пр. Сталина, 18",
+      "employees": [
+        {
+          "id": "7bfbb898-7655-3eff-ade8-2530a6880de7",
+          "name": "Давид",
+          "last_name": "Сорокин",
+          "position": "Воробьёв"
+        },
+        {
+          "id": "1a78a066-c649-3f3a-9eaf-10f777b5bfaf",
+          "name": "Марат",
+          "last_name": "Мясниковa",
+          "position": "Емельяновa"
+        },
+        {
+          "id": "136c846c-c2af-3e88-bfd5-e8874506259f",
+          "name": "Савва",
+          "last_name": "Копылов",
+          "position": "Кононовa"
+        },
+        {
+          "id": "60430fb4-2e2d-3085-a01a-2ae3dc204d6a",
+          "name": "Роберт",
+          "last_name": "Дьячковa",
+          "position": "Комиссаров"
+        },
+        {
+          "id": "839133f7-970e-381a-b983-65652d7d8fc3",
+          "name": "Таисия",
+          "last_name": "Гаврилов",
+          "position": "Казаков"
+        },
+        {
+          "id": "ef11c3e0-489b-335d-a9de-f252a0fde005",
+          "name": "Лаврентий",
+          "last_name": "Анисимов",
+          "position": "Буров"
+        },
+        {
+          "id": "f1475814-d736-33f4-b4fe-03dfc5c55002",
+          "name": "Бронислав",
+          "last_name": "Филатовa",
+          "position": "Ильинa"
+        }
+      ]
+    },
+    {
+      "id": "2c53c2a9-dd85-34b3-b9af-3f371278d645",
+      "company": "ООО Компания ДизайнРосРыб-H",
+      "address": "бульвар 1905 года, 79",
+      "employees": [
+        {
+          "id": "21be74cf-ee91-3b98-be1c-f68a1d5bb63c",
+          "name": "Софья",
+          "last_name": "Фокинa",
+          "position": "Белоусовa"
+        },
+        {
+          "id": "4b0f59b7-c51a-35a3-b015-4445b4c75eef",
+          "name": "Дмитрий",
+          "last_name": "Бобровa",
+          "position": "Коноваловa"
+        },
+        {
+          "id": "6a63b2e0-dc3a-3b01-a263-111758161f45",
+          "name": "Егор",
+          "last_name": "Волков",
+          "position": "Никоновa"
+        },
+        {
+          "id": "5e379a4c-2ce8-3a36-a2e6-3c72a1538709",
+          "name": "Дмитрий",
+          "last_name": "Лыткинa",
+          "position": "Афанасьевa"
+        },
+        {
+          "id": "c601d238-7b98-3017-a10a-5f45804ab93f",
+          "name": "Игнатий",
+          "last_name": "Субботинa",
+          "position": "Третьяков"
+        },
+        {
+          "id": "db8a79c2-8602-3f21-8cb2-c797f03ea834",
+          "name": "Виталий",
+          "last_name": "Муравьёв",
+          "position": "Гурьевa"
+        },
+        {
+          "id": "502e28f8-6977-3302-9907-ad8520a70274",
+          "name": "Регина",
+          "last_name": "Симоновa",
+          "position": "Титовa"
+        },
+        {
+          "id": "7a5b5751-cd5e-3a81-94b0-fda9f22f6409",
+          "name": "Капитолина",
+          "last_name": "Воронцовa",
+          "position": "Поповa"
+        },
+        {
+          "id": "76ffee86-d5c5-3459-8339-4cc8dd04f0c9",
+          "name": "Алла",
+          "last_name": "Ефремовa",
+          "position": "Фомин"
+        },
+        {
+          "id": "31d755bf-198c-3167-9dc1-d3f376374e4d",
+          "name": "Никодим",
+          "last_name": "Уваровa",
+          "position": "Бирюковa"
+        },
+        {
+          "id": "864f18d4-3cb8-341d-9bf0-d9ce06a75fe5",
+          "name": "Анатолий",
+          "last_name": "Фадеевa",
+          "position": "Ермаков"
+        },
+        {
+          "id": "a3818120-e60a-369f-9ee3-beda1d9fe1c5",
+          "name": "Анна",
+          "last_name": "Михеев",
+          "position": "Артемьев"
+        },
+        {
+          "id": "f9c99e32-d3f8-31a5-88c0-c9da826e9b5b",
+          "name": "Игнат",
+          "last_name": "Егоровa",
+          "position": "Ефремов"
+        },
+        {
+          "id": "12f2ed69-5539-3468-8b55-a5039e038fdd",
+          "name": "Назар",
+          "last_name": "Колобовa",
+          "position": "Антоновa"
+        },
+        {
+          "id": "a67b8400-5f45-3155-8698-d93a57263fd0",
+          "name": "Ираклий",
+          "last_name": "Александровa",
+          "position": "Игнатовa"
+        },
+        {
+          "id": "8d34d7c9-302f-3c74-a44a-354edd17e63f",
+          "name": "Яна",
+          "last_name": "Кузнецовa",
+          "position": "Михайловa"
+        },
+        {
+          "id": "f1bb75bf-889f-3832-8856-781244c12ded",
+          "name": "Аполлон",
+          "last_name": "Исаевa",
+          "position": "Белоусов"
+        },
+        {
+          "id": "e32255c5-ddd0-39e8-8ddc-c7659a64c4a1",
+          "name": "Тимур",
+          "last_name": "Ефремовa",
+          "position": "Носковa"
+        },
+        {
+          "id": "34cac21a-dd9d-37f7-8b90-cff67b4673c4",
+          "name": "Ирина",
+          "last_name": "Журавлёвa",
+          "position": "Соболевa"
+        },
+        {
+          "id": "62437b02-ecad-37a6-8fe4-5a71e9f2e073",
+          "name": "Гарри",
+          "last_name": "Коноваловa",
+          "position": "Фадеевa"
+        },
+        {
+          "id": "bba24505-41bd-31ac-9b39-7c4d74bfbc05",
+          "name": "Спартак",
+          "last_name": "Осиповa",
+          "position": "Ковалёв"
+        },
+        {
+          "id": "863fb7e5-ccb7-322c-b929-e4b1530f1bbe",
+          "name": "Егор",
+          "last_name": "Белоусовa",
+          "position": "Филиппов"
+        },
+        {
+          "id": "e4ccb075-eff8-34f8-b599-d2cb7474d9c6",
+          "name": "Нонна",
+          "last_name": "Зуевa",
+          "position": "Трофимов"
+        },
+        {
+          "id": "d0243c56-0ed6-3ed5-ae87-21fb0089fcc5",
+          "name": "Ирина",
+          "last_name": "Рыбаковa",
+          "position": "Хохловa"
+        },
+        {
+          "id": "96d4174b-ce60-3078-ae35-f647677af828",
+          "name": "Альбина",
+          "last_name": "Кулагинa",
+          "position": "Михайловa"
+        },
+        {
+          "id": "0e53b307-47a2-356b-a376-b9a11744e6a9",
+          "name": "Наталья",
+          "last_name": "Абрамов",
+          "position": "Мясниковa"
+        },
+        {
+          "id": "470a1b76-1349-3db9-99a5-41f0e1814155",
+          "name": "Рената",
+          "last_name": "Сафонов",
+          "position": "Дроздов"
+        },
+        {
+          "id": "88d97c1e-cb1f-3840-9eba-a1c8d255c3ad",
+          "name": "Олег",
+          "last_name": "Вишняков",
+          "position": "Сысоев"
+        },
+        {
+          "id": "e9cc94d6-21ea-328e-853a-da3152bb0e6e",
+          "name": "Варвара",
+          "last_name": "Куликов",
+          "position": "Зуев"
+        }
+      ]
+    },
+    {
+      "id": "bdb5ad57-a352-36cb-a568-e44f49691780",
+      "company": "ОАО ЮпитерIT",
+      "address": "пер. Гоголя, 21",
+      "employees": [
+        {
+          "id": "29f3a0c0-8949-355e-8003-9a18b44b52c2",
+          "name": "Татьяна",
+          "last_name": "Воронов",
+          "position": "Шиловa"
+        },
+        {
+          "id": "79298adb-3dae-379d-8365-af01a3d8da5b",
+          "name": "Нонна",
+          "last_name": "Муравьёв",
+          "position": "Максимовa"
+        },
+        {
+          "id": "ebbf7c53-a62f-37c6-9c44-6d6400799289",
+          "name": "Геннадий",
+          "last_name": "Якушевa",
+          "position": "Суханов"
+        },
+        {
+          "id": "aae0e8ab-f145-3b09-809a-d71c57d41f1c",
+          "name": "Дина",
+          "last_name": "Гордеев",
+          "position": "Костинa"
+        },
+        {
+          "id": "f95d1bc4-e8e3-33d1-9cdc-27112e4af668",
+          "name": "Нина",
+          "last_name": "Лукин",
+          "position": "Соколов"
+        },
+        {
+          "id": "7164dc64-9348-3d4a-8744-e740295d6073",
+          "name": "Марат",
+          "last_name": "Блохин",
+          "position": "Никифоров"
+        },
+        {
+          "id": "f9040809-aa5c-361b-b99e-ecaaa70ad3b7",
+          "name": "Юлий",
+          "last_name": "Фокинa",
+          "position": "Шестаков"
+        }
+      ]
+    },
+    {
+      "id": "68bf0120-1775-30d4-b18a-e0097e00075a",
+      "company": "ОАО МоторМясСтройСнаб",
+      "address": "пл. Будапештсткая, 97",
+      "employees": [
+        {
+          "id": "8d5f87c4-4dcd-3cbe-93d6-4024c58f803e",
+          "name": "Клара",
+          "last_name": "Бобровa",
+          "position": "Александров"
+        },
+        {
+          "id": "cf0949a1-a4dd-3c98-b47c-15853c2555e7",
+          "name": "Тимофей",
+          "last_name": "Казаковa",
+          "position": "Нестеров"
+        },
+        {
+          "id": "132b6f07-43e4-367d-844b-588addb52277",
+          "name": "Андрей",
+          "last_name": "Дементьевa",
+          "position": "Лихачёв"
+        },
+        {
+          "id": "f809888c-9178-3726-a8c8-a87d8d3a6f7e",
+          "name": "Алина",
+          "last_name": "Сазонов",
+          "position": "Михеевa"
+        },
+        {
+          "id": "114e99ec-9cff-32e2-a810-3ac6f64904af",
+          "name": "Мария",
+          "last_name": "Воробьёвa",
+          "position": "Данилов"
+        },
+        {
+          "id": "e2e509fd-e297-3f28-9805-571393ab9fc2",
+          "name": "Клавдия",
+          "last_name": "Шилов",
+          "position": "Лихачёвa"
+        }
+      ]
+    },
+    {
+      "id": "ea2f4e8f-a0a6-3430-854b-798f79dcfd80",
+      "company": "ЗАО ГаражТехВосток-М",
+      "address": "пл. 1905 года, 06",
+      "employees": [
+        {
+          "id": "114e99ec-9cff-32e2-a810-3ac6f64904af",
+          "name": "Мария",
+          "last_name": "Воробьёвa",
+          "position": "Данилов"
+        },
+        {
+          "id": "e2e509fd-e297-3f28-9805-571393ab9fc2",
+          "name": "Клавдия",
+          "last_name": "Шилов",
+          "position": "Лихачёвa"
+        }
+      ]
+    }
+  ]
+}
